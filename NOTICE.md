@@ -11,7 +11,7 @@
 
 ## 2. 美术素材 / Artwork
 
-- **范围**：`app/assets/www/model/**`、`_model_src/**`、`app/res/mipmap-*/**`、`app/assets/www/img/**`
+- **范围**：`app/assets/www/model/**`、`_model_src/**`、`app/res/mipmap-*/**`、`app/assets/www/img/**`、`docs/screenshots/**`
 - **许可**：**[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)**
   （署名 — **非商业性使用** — 相同方式共享）
 - **版权**：**上善无形 / ZipZipPipe / 氵六青** 三位所有

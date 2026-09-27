@@ -1,7 +1,25 @@
-# 鲸鲸桌宠 · Android 悬浮窗 Live2D 桌宠
+# 欧鲸鲸 · jingjing-pet
 
-> 一只住在安卓手机上的女仆鲸鱼娘。她**浮在任何应用上面**，窗口大小**正好等于她的轮廓**，
-> 会跟着你的手指看人、跟着 AI 干活的状态换表情。
+给安卓手机用的 **Live2D 悬浮窗桌宠**：她浮在微信、桌面、任何应用上面，
+窗口大小正好等于她的轮廓（一点都不挡手），会跟着你的手指看人、摸头会害羞，
+还能跟着 DSH（DeepSeek Harness）Agent 的实时状态换表情、做动作。
+
+**自带 DS 鲸鱼娘（16 种工作状态 + 8 组动作 + 44 个表情/道具），开箱即用。**
+
+许可分两类：**代码 MIT**，**美术素材 CC BY-NC-SA 4.0**。
+鲸鱼娘角色形象原作是 **上善无形** 的原创 OC「溟月」，**ZipZipPipe** 做了 DeepSeek 女仆二次设计，
+**氵六青** 做了本仓库所用的 Live2D 模型（无偿配布，已授权转载开源），
+但这**不解除**基础版权 —— **非商业（NC）** 与 **相同方式共享（SA）** 依然适用，详见 [NOTICE.md](NOTICE.md)。
+
+<p align="center">
+  <a href="docs/screenshots/01-expressions.jpg"><img src="docs/screenshots/01-expressions.jpg" width="19%" alt="表情"></a>
+  <a href="docs/screenshots/02-decorations.jpg"><img src="docs/screenshots/02-decorations.jpg" width="19%" alt="装饰"></a>
+  <a href="docs/screenshots/03-scenes.jpg"><img src="docs/screenshots/03-scenes.jpg" width="19%" alt="场景"></a>
+  <a href="docs/screenshots/04-actions.jpg"><img src="docs/screenshots/04-actions.jpg" width="19%" alt="动作"></a>
+  <a href="docs/screenshots/05-settings.jpg"><img src="docs/screenshots/05-settings.jpg" width="19%" alt="设置"></a>
+</p>
+
+<p align="center"><sub>长按她就开菜单（在别的应用里也能开）：<b>表情 · 装饰 · 场景 · 动作 · 设置</b></sub></p>
 
 `Android 7.0+` · `targetSdk 32` · `APK 4.6 MB` · `不含任何 .so` · `完全免费`
 
@@ -10,6 +28,7 @@
 ## 目录
 
 - [这是什么](#这是什么)
+- [截图](#截图)
 - [特性](#特性)
 - [运行环境](#运行环境)
 - [安装与首次授权](#安装与首次授权)
@@ -36,6 +55,16 @@
 你摸她头会脸红，摸个没完她是会生气的。你让 AI 干活时，她在旁边跟着进度变脸。
 
 ---
+
+## 截图
+
+她本人的样子（都是真机渲染）：
+
+![欧鲸鲸](docs/screenshots/hero.png)
+
+三种表情对照 —— 待机 / 摸到生气 / 连摸的爱心眼：
+
+![三种表情](docs/screenshots/poses.png)
 
 ## 特性
 
@@ -282,7 +311,7 @@ node tools/paneltest.js    # 面板 / 手机平板排版（35 条）
 | **上善无形** | 鲸鱼娘角色形象原作，原创 OC「溟月」 | [主页](https://space.bilibili.com/4456176) |
 | **ZipZipPipe** | 加入 DeepSeek 元素的「女仆鲸鱼娘」二次设计 | [主页](https://space.bilibili.com/4168597) |
 | **氵六青** | 本项目所用 Live2D 模型（绑定、动作、表情） | [主页](https://space.bilibili.com/11272072) |
-| **-Zovoeh-** | 本 App（Android 端改造、悬浮窗、播放规则、Agent 联动） | [主页](https://space.bilibili.com/3546885610539756) |
+| **@-Zovoeh-** | 本 App（Android 端改造、悬浮窗、播放规则、Agent 联动） | [主页](https://space.bilibili.com/3546885610539756) |
 
 模型与角色形象按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 （署名 — 非商业性使用 — 相同方式共享）。
