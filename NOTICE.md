@@ -18,11 +18,11 @@
 
 ### 角色形象的三重版权链（都要署名）
 
-| 版权所有人 | 贡献 | B 站 |
+| 版权所有人 | 贡献 | 主页 |
 | --- | --- | --- |
-| **上善无形** | 鲸鱼娘角色形象原作，原创 OC「溟月」（2025 年创作） | https://space.bilibili.com/4456176 |
-| **ZipZipPipe** | 加入 DeepSeek 元素的「女仆鲸鱼娘」二次设计（2026 年授权使用「溟月」） | https://space.bilibili.com/4168597 |
-| **氵六青** | 本项目所用 Live2D 模型（绑定、动作、表情） | https://space.bilibili.com/11272072 |
+| **上善无形** | 鲸鱼娘角色形象原作，原创 OC「溟月」（2025 年创作） | [主页](https://space.bilibili.com/4456176) |
+| **ZipZipPipe** | 加入 DeepSeek 元素的「女仆鲸鱼娘」二次设计（2026 年授权使用「溟月」） | [主页](https://space.bilibili.com/4168597) |
+| **氵六青** | 本项目所用 Live2D 模型（绑定、动作、表情） | [主页](https://space.bilibili.com/11272072) |
 
 模型由 **氵六青** 无偿配布（原视频：[《大肥鱼！丨免费Live2d模型》](https://b23.tv/6lQkdvV)），
 其使用须知原文：
