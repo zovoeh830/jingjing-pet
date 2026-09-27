@@ -282,7 +282,7 @@ node tools/paneltest.js    # 面板 / 手机平板排版（35 条）
 | **上善无形** | 鲸鱼娘角色形象原作，原创 OC「溟月」 | [主页](https://space.bilibili.com/4456176) |
 | **ZipZipPipe** | 加入 DeepSeek 元素的「女仆鲸鱼娘」二次设计 | [主页](https://space.bilibili.com/4168597) |
 | **氵六青** | 本项目所用 Live2D 模型（绑定、动作、表情） | [主页](https://space.bilibili.com/11272072) |
-| **@-Zovoeh-** | 本 App（Android 端改造、悬浮窗、播放规则、Agent 联动） | [主页](https://space.bilibili.com/3546885610539756) |
+| **-Zovoeh-** | 本 App（Android 端改造、悬浮窗、播放规则、Agent 联动） | [主页](https://space.bilibili.com/3546885610539756) |
 
 模型与角色形象按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 （署名 — 非商业性使用 — 相同方式共享）。
