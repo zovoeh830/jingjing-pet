@@ -11,15 +11,18 @@
 **氵六青** 做了本仓库所用的 Live2D 模型（无偿配布，已授权转载开源），
 但这**不解除**基础版权 —— **非商业（NC）** 与 **相同方式共享（SA）** 依然适用，详见 [NOTICE.md](NOTICE.md)。
 
-<p align="center">
-  <a href="docs/screenshots/01-expressions.jpg"><img src="docs/screenshots/01-expressions.jpg" width="19%" alt="表情"></a>
-  <a href="docs/screenshots/02-decorations.jpg"><img src="docs/screenshots/02-decorations.jpg" width="19%" alt="装饰"></a>
-  <a href="docs/screenshots/03-scenes.jpg"><img src="docs/screenshots/03-scenes.jpg" width="19%" alt="场景"></a>
-  <a href="docs/screenshots/04-actions.jpg"><img src="docs/screenshots/04-actions.jpg" width="19%" alt="动作"></a>
-  <a href="docs/screenshots/05-settings.jpg"><img src="docs/screenshots/05-settings.jpg" width="19%" alt="设置"></a>
-</p>
+![表情](docs/screenshots/01-expressions.jpg)
 
-<p align="center"><sub>长按她就开菜单（在别的应用里也能开）：<b>表情 · 装饰 · 场景 · 动作 · 设置</b></sub></p>
+![装饰](docs/screenshots/02-decorations.jpg)
+
+![场景](docs/screenshots/03-scenes.jpg)
+
+![动作](docs/screenshots/04-actions.jpg)
+
+![设置](docs/screenshots/05-settings.jpg)
+
+> 长按她就开菜单（在**别的应用里**也能开）：**表情 · 装饰 · 场景 · 动作 · 设置** ——
+> 顶栏那行是实时状态：左边 Agent 在干什么，右边"现在什么脸 / 常态是什么"。
 
 `Android 7.0+` · `targetSdk 32` · `APK 4.6 MB` · `不含任何 .so` · `完全免费`
 
