@@ -11,15 +11,9 @@
 **氵六青** 做了本仓库所用的 Live2D 模型（无偿配布，已授权转载开源），
 但这**不解除**基础版权 —— **非商业（NC）** 与 **相同方式共享（SA）** 依然适用，详见 [NOTICE.md](NOTICE.md)。
 
-![表情](docs/screenshots/01-expressions.jpg)
-
-![装饰](docs/screenshots/02-decorations.jpg)
-
-![场景](docs/screenshots/03-scenes.jpg)
-
-![动作](docs/screenshots/04-actions.jpg)
-
-![设置](docs/screenshots/05-settings.jpg)
+| ![表情](docs/screenshots/01-expressions.jpg) | ![装饰](docs/screenshots/02-decorations.jpg) | ![场景](docs/screenshots/03-scenes.jpg) | ![动作](docs/screenshots/04-actions.jpg) | ![设置](docs/screenshots/05-settings.jpg) |
+| :---: | :---: | :---: | :---: | :---: |
+| 表情 | 装饰 | 场景 | 动作 | 设置 |
 
 > 长按她就开菜单（在**别的应用里**也能开）：**表情 · 装饰 · 场景 · 动作 · 设置** ——
 > 顶栏那行是实时状态：左边 Agent 在干什么，右边"现在什么脸 / 常态是什么"。
